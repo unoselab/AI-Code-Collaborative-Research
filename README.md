@@ -1,4 +1,4 @@
-# AI-Code-Collaborative-Research
+# AI Code Collaborative Research
 
 This repository supports collaborative research on AI-generated code, human-AI software development, repository mining, code provenance, AI-code detection, and code quality analysis.
 
