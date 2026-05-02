@@ -1,6 +1,12 @@
 # AI Code Collaborative Research
 
-This repository supports collaborative research on AI-generated code, human-AI software development, repository mining, code provenance, AI-code detection, and code quality analysis.
+This repository supports collaborative research on AI-generated code, human-AI software development, repository mining, code provenance, AI-code detection, and software maintenance analysis.
+
+## Collaborators
+
+- Dr. Harvey Siy (https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/harvey-siy.php)
+- Dr. Myoungkyu Song (https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/myoungkyu-song.php)
+- Dr. Jaydeb Sarker (https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/jaydeb-sarker.php)
 
 ## Repository Structure
 
@@ -9,11 +15,24 @@ This repository supports collaborative research on AI-generated code, human-AI s
 
 ## Research Aims
 
-### Aim 1: Repository Mining
-Study repository histories, code provenance, code genealogy, GitHub mining, and commit-level development behavior.
+### Aim 1: Code Provenance Analysis
 
-### Aim 2: AI Code Detection
-Develop and evaluate methods for detecting AI-generated code using perturbation-based, embedding-based, supervised LLM-based, and baseline approaches.
+Lead: Dr. Harvey Siy
 
-### Aim 3: Code Quality Analysis
-Analyze AI-generated and human-written code using static analysis, code smell detection, and refactoring-candidate identification.
+Study repository histories, code provenance, code lineage, GitHub mining, historical version recovery, and commit-level development behavior. This aim focuses on constructing human-written code baselines and reconstructing how code artifacts originate, evolve, propagate, change, or disappear over time.
+
+### Aim 2: AI-Generated Code Detection
+
+Lead: Dr. Myoungkyu Song
+
+Develop and evaluate methods for detecting AI-generated code using supervised LLM-based models, perturbation-based scoring, predictability measures, AST embeddings, and hybrid classification approaches.
+
+### Aim 3: Maintenance-Impact Analysis
+
+Lead: Dr. Jaydeb Sarker
+
+Analyze how AI-tool adoption affects collaborative software maintenance, including productivity, review effort, rework, debugging activity, integration difficulty, code-quality warnings, code smells, and code complexity.
+
+## Project Goal
+
+The project aims to understand how AI-powered coding tools reshape collaborative software development and maintenance, with a focus on code authorship, AI-generated code detection, productivity, quality, and long-term software sustainability.
