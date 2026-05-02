@@ -5,7 +5,7 @@ This repository supports collaborative research on AI-generated code, human-AI s
 ## Collaborators
 
 - Dr. Harvey Siy 
-- Dr. Myoungkyu Song <p><a href="https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/myoungkyu-song.php" class="back-link">University of Nebraska at Omaha</a></p>
+- Dr. Myoungkyu Song <a href="https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/myoungkyu-song.php" class="back-link">(link)</a>
 - Dr. Jaydeb Sarker
 
 ## Repository Structure
